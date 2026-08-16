@@ -9,3 +9,6 @@ Actuarial analysis of Marine Liability insurance claims from 2018 to 2023 with t
 - Applied actuarial principles to evaluate risks and calculated experience-based premiums.
 - Developed comprehensive reports that included assumptions, methodologies, and commentary on risks and uncertainties.
 
+### Claims Data Tab
+![Claims Data](Actuarial_Task_2_Claims_Data.png)
+
