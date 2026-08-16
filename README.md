@@ -12,3 +12,7 @@ Actuarial analysis of Marine Liability insurance claims from 2018 to 2023 with t
 ### Claims Data Tab
 ![Claims Data](Actuarial_Task_2_Claims_Data.png)
 
+### Exploratory Data Analysis Tab
+![EDA](Actuarial_Task_2_Exploratory_Data_Analysis.png)
+
+### Pure Premium Work Tab
