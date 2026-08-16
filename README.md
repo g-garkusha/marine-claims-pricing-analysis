@@ -8,3 +8,4 @@ Actuarial analysis of Marine Liability insurance claims from 2018 to 2023 with t
 - Analyzed claims frequency and severity trends using data visualization techniques.
 - Applied actuarial principles to evaluate risks and calculated experience-based premiums.
 - Developed comprehensive reports that included assumptions, methodologies, and commentary on risks and uncertainties.
+
